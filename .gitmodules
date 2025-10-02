@@ -1,3 +1,6 @@
 [submodule "Starter_Problems/01_Merge_Sorted_Array"]
 	path = Starter_Problems/01_Merge_Sorted_Array
 	url = https://github.com/madiv9820/01_Merge_Sorted_Array.git
+[submodule "Starter_Problems/02_Remove_Element"]
+	path = Starter_Problems/02_Remove_Element
+	url = https://github.com/madiv9820/02_Remove_Element.git
