@@ -4,3 +4,6 @@
 [submodule "Starter_Problems/02_Remove_Element"]
 	path = Starter_Problems/02_Remove_Element
 	url = https://github.com/madiv9820/02_Remove_Element.git
+[submodule "Starter_Problems/03_Remove_Duplicates_from_Sorted_Array"]
+	path = Starter_Problems/03_Remove_Duplicates_from_Sorted_Array
+	url = https://github.com/madiv9820/03_Remove_Duplicates_from_Sorted_Array.git
