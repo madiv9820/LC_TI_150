@@ -15,8 +15,8 @@ Each folder is packed with Python solutions to the problems, neatly organized an
 - ### 1. Clone the Repository
     First, you’ll need to clone the repo. It's easy, we promise:
     ```bash []
-    git clone https://github.com/your-username/LeetCode-Top-150.git
-    cd LeetCode-Top-150
+    git clone https://github.com/madiv9820/LC_TI_150.git
+    cd LC_TI_150
     ```
 
 - ### 2. Explore the Problems
@@ -45,7 +45,7 @@ Each folder is packed with Python solutions to the problems, neatly organized an
     1. **Fork** the repository to your GitHub account.
     2. Clone the repository with the --recurse-submodules flag:
         ```bash []
-        git clone --recurse-submodules https://github.com/your-username/LeetCode-Top-150.git
+        git clone --recurse-submodules https://github.com/your-username/LC_TI_150.git
         ```
     3. Create a new branch for your changes:
         ```bash []
