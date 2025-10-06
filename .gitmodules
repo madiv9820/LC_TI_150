@@ -7,3 +7,6 @@
 [submodule "Starter_Problems/03_Remove_Duplicates_from_Sorted_Array"]
 	path = Starter_Problems/03_Remove_Duplicates_from_Sorted_Array
 	url = https://github.com/madiv9820/03_Remove_Duplicates_from_Sorted_Array.git
+[submodule "Skill_Building/04_Remove_Duplicates_From_Sorted_Array_II"]
+	path = Skill_Building/04_Remove_Duplicates_From_Sorted_Array_II
+	url = https://github.com/madiv9820/04_Remove_Duplicates_From_Sorted_Array_II.git
