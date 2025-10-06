@@ -10,3 +10,6 @@
 [submodule "Skill_Building/04_Remove_Duplicates_From_Sorted_Array_II"]
 	path = Skill_Building/04_Remove_Duplicates_From_Sorted_Array_II
 	url = https://github.com/madiv9820/04_Remove_Duplicates_From_Sorted_Array_II.git
+[submodule "Starter_Problems/05_Majority_Element"]
+	path = Starter_Problems/05_Majority_Element
+	url = https://github.com/madiv9820/05_Majority_Element.git
