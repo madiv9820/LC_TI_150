@@ -13,3 +13,6 @@
 [submodule "Starter_Problems/05_Majority_Element"]
 	path = Starter_Problems/05_Majority_Element
 	url = https://github.com/madiv9820/05_Majority_Element.git
+[submodule "Skill_Building/06_Rotate_Array"]
+	path = Skill_Building/06_Rotate_Array
+	url = https://github.com/madiv9820/06_Rotate_Array.git
