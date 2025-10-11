@@ -16,3 +16,6 @@
 [submodule "Skill_Building/06_Rotate_Array"]
 	path = Skill_Building/06_Rotate_Array
 	url = https://github.com/madiv9820/06_Rotate_Array.git
+[submodule "Starter_Problems/07_Best_Time_to_Buy_and_Sell_Stock"]
+	path = Starter_Problems/07_Best_Time_to_Buy_and_Sell_Stock
+	url = https://github.com/madiv9820/07_Best_Time_to_Buy_and_Sell_Stock.git
