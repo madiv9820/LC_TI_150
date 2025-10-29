@@ -19,3 +19,9 @@
 [submodule "Starter_Problems/07_Best_Time_to_Buy_and_Sell_Stock"]
 	path = Starter_Problems/07_Best_Time_to_Buy_and_Sell_Stock
 	url = https://github.com/madiv9820/07_Best_Time_to_Buy_and_Sell_Stock.git
+[submodule "Skill_Building/08_Best_Time_to_Buy_and_Sell_Stock_II"]
+	path = Skill_Building/08_Best_Time_to_Buy_and_Sell_Stock_II
+	url = https://github.com/madiv9820/08_Best_Time_to_Buy_and_Sell_Stock_II.git
+[submodule "Skill_Building/09_Jump_Game"]
+	path = Skill_Building/09_Jump_Game
+	url = https://github.com/madiv9820/09_Jump_Game.git
